@@ -1,7 +1,7 @@
 {
     "name": "loki-checkout/magento2-sp",
     "version": "1.0.0",
-    "description": "Country settings for LokiCheckout",
+    "description": "Spanish settings for LokiCheckout",
     "keywords": [
         "loki-checkout",
         "loki-checkout-category-country"
@@ -22,6 +22,6 @@
         }
     },
     "extra": {
-        "label": "Country Settings"
+        "label": "Spanish Settings"
     }
 }

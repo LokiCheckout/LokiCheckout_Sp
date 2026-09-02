@@ -1,6 +1,6 @@
 # LokiCheckout_Sp
 
-**This Magento 2 module is an add-on package for the country `Sp`.
+**This Magento 2 module is an add-on package for Spain.**
 
 ## Installation
 Install this package via composer:
